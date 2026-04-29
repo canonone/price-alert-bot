@@ -1,6 +1,6 @@
 # 📈 Price Alert Bot
 
-A Telegram-based price alert system for Forex and Gold (XAUUSD) traders. Set Stop Loss, Take Profit, and Target Price alerts directly from Telegram and get notified the moment price reaches your level — no TradingView premium required.
+A Telegram-based price alert system for Currency and Gold (XAUUSD) traders. Set Stop Loss, Take Profit, and Target Price alerts directly from Telegram and get notified the moment price reaches your level.
 
 ## ✨ Features
 
